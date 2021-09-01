@@ -9,6 +9,10 @@ android_app {
     // Include SettingsLib and it's dependencies
     defaults: ["SettingsLibDefaults"],
 
+    dex_preopt: {
+        enabled: false,
+    },
+
     srcs: ["src/**/*.java"],
     resource_dirs: ["res"],
 
