@@ -87,8 +87,6 @@
     <string name="network_traffic_mode_disable">Disabilitadu</string>
     <string name="network_traffic_show_units_off">Istudadu</string>
     <string name="network_traffic_show_units_on">Ativu</string>
-    <string name="anonymous_statistics_warning_title">Informatziones</string>
-    <string name="preview_version_title">Versione</string>
     <string name="preview_country_title">Istadu</string>
     <string name="display_rotation_unit">grados</string>
     <string name="display_rotation_0_title">0 grados</string>
